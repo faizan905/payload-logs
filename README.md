@@ -16,8 +16,9 @@ $ pkg install python
 $ pkg install git
 ```
 ```
-git clone
+$git clone
 https://github.com/faizan905/payload-loger
 ```
 ```
-cp -rf payload-loger.sh
+$cp -rf payload-loger.sh /sdcard/
+
